@@ -1,2 +1,16 @@
-# Cyber-Security-Game---Cyber-Quest
-The vision of the game "CyberQuest: Defenders of the Digital Realm" is to provide an engaging and educational simulation experience that equips players with essential cybersecurity knowledge and skills. Through immersive gameplay and interactive challenges, the game aims to raise awareness about cyber threats, promote responsible online behavior.
+# cybersecurity_game_cyberquest
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
